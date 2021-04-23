@@ -3,8 +3,8 @@ global:
 
 systemUpgradeController:
   image:
-    repository: rancher/system-upgrade-controller
-    tag: v0.6.2
+    repository: ibuildthecloud/system-upgrade-controller
+    tag: latest
 
 kubectl:
   image:
